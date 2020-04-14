@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://kit.fontawesome.com/1bf76a8c96.js" crossorigin="anonymous"></script>
+  <title>City Specialist</title>
+</head>
+<body>
+  <div class="header">
+    <div class="header-left">
+      <div class="header-logo">
+        <p><span class="city">CITY</span> <span class="lab"> Lab</span> </p>
+      </div>
+    </div>
+    <div class="header-lists">
+      <div class="header-list">
+        <ul>
+          <li>サービス</li>
+          <li>ニュース</li>
+          <li>CSR</li>
+          <li>IR情報</li>
+          <li>会社情報</li>
+          <li>採用情報</li>
+        </ul>
+      </div>
+    </div>
+    <div class="header-contact"></div>
+          <div class="contact">
+            <p>お問い合わせ</p>
+          </div>
+    </div>
+    <div class="main-container">
+      <div class="main-text-content">
+          <h1>City</h1>
+          <h2>Specialist</h2>
+          <p>豊富なアイデアと実績で街の課題を解決</p>
+        </div>
+      </div>
+<!-- ここから二つ目のコンテンツ -->
+     <div class ="second-container">
+        <div class="news_title">
+          <h3>News</h3>
+          <p>一覧を見る <i class="fas fa-chevron-right"></i></p> 
+        </div>
+        <div class="news_details">
+          <div class="news_item1">
+            <p class="date">2020.03.14</p>
+            <p class="icon">プレス</p>
+            <p class="text">【東京オリンピック会場跡地再開発計画】複合スポーツ施設及び新テーマパーク工事開始のお知らせ</p>
+          </div>
+          <div class="news_item2">
+            <p class="date">2020.02.30</p>
+            <p class="icon">IR</p>
+            <p class="text">2019年9月期　第1四半期決算説明会動画</p>
+          </div>
+          <div class="news_item3">
+            <p class="date">2020.02.30</p>
+            <p class="icon">IR</p>
+            <p class="text">2019年9月期　第1四半期決算説明会資料</p>
+          </div>         
+        </div> 
+      </div>
+<!-- ここからServiceなどのコンテンツ -->
+      <div class="third-container">
+        <h3>Service</h3>
+        <p>CITY Labの事業</p>
+        <div class="box1"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+      </div>
+
+
+
+
+
+
+</body>
+</html>
